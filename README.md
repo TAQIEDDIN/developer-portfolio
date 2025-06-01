@@ -8,7 +8,6 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://shahid-portfolio-chi.vercel.app/).
 
 ---
 
@@ -102,19 +101,19 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "SHAHID PARVEZ",
+  name: "name",
   profile: '/profile.png',
   designation: "Software Developer",
-  description: "My name is SHAHID PARVEZ.....',
-  phone: '+91 6289883556',
-  address: 'West Bengal - India - Kolkata - 700119 ',
-  github: 'https://github.com/Shahid6289',
-  facebook: 'https://www.facebook.com/shahid.parvez.94695',
-  linkedIn: 'https://www.linkedin.com/in/shahid-parvez-8599961b3/',
-  twitter: 'https://www.geeksforgeeks.org/user/shahidgotzao/',
-  stackOverflow: 'https://stackoverflow.com/users/24319695/shahid-parvez',
-  leetcode: "https://leetcode.com/Shahid6289/",
-  devUsername: "Shahid6289",
+  description: "My name is name .....',
+  phone: '+90 6289883556',
+  address: 'somewere ',
+  github: 'https://github.com/',
+  facebook: 'https://www.facebook.com/',
+  linkedIn: 'https://www.linkedin.com/',
+  twitter: 'https://www.geeksforgeeks.org',
+  stackOverflow: 'https://stackoverflow.com/',
+  leetcode: "https://leetcode.com/",
+  devUsername: "dev",
   resume: "Your Resume"
 }
 ```
