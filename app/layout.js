@@ -6,7 +6,7 @@ import Navbar from './components/navbar';
 import './css/card.scss';
 import './css/globals.scss';
 import ScrollToTop from './components/helper/scroll-to-top';
-//import GTMClient from './components/helper/GTMClient'; // ✅ هذا الجديد 
+import GTMClient from './components/helper/GTMClient'; // ✅ هذا الجديد 
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -26,6 +26,7 @@ export default function RootLayout({ children }) {
           <ScrollToTop />
         </main>
         <Footer />
+        <GTMClient /> {/* ✅ فقط هنا داخل المكون Client */}
       </body>
     </html>
   );
