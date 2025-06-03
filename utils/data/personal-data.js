@@ -2,7 +2,7 @@ export const personalData = {
   name: "TAQIEDDINE ELMAMOUNI",
   profile: '/profile.jpg',
   designation: "COMPUTER ENGENIRING",
-  description: "My name is TAQI EDDINE  EL MAMOUNI. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. Experienced in a variety of programming languages and technologies, I thrive in dynamic environments that value creativity and collaboration. My core skill is based on Java and Spring Boot and I love to do most of the things using Java and JavaScript. I am available for any kind of job opportunity that suits my skills and interests. Let's connect and explore the endless possibilities at the intersection of technology and imagination.",
+  description: "My name is TAQI EDDINE EL MAMOUNI, a passionate and professional programmer with a strong focus on Artificial Intelligence, Machine Learning, and Deep Learning. I actively work on projects involving neural networks, computer vision, and natural language processing, driven by a deep curiosity to explore how intelligent systems can solve real-world problems. I thrive in dynamic, collaborative environments where creativity meets technology, and I’m always eager to learn and adopt new tools and frameworks. Alongside my AI interests, I have experience in JavaScript and modern web development. My core expertise lies in backend development using Java script, which remain my favorite technologies to build robust and scalable applications.",
   email: 'taqieddineelmamouni@gmail.com',
   phone: '+90 5013270987',
   address: 'Istanbul - Turkey ',
